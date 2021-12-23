@@ -1,0 +1,17 @@
+{
+  "name": "@dcl/unity-renderer",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "version": "1.0.22974-20211221165939.commit-3a1b261",
+  "commit": "3a1b2614335451d8748e34958353ca42721be87c",
+  "branch": "master",
+  "author": "Decentraland Contributors",
+  "license": "Apache-2.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/decentraland/unity-renderer.git"
+  }
+}
